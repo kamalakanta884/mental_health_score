@@ -210,7 +210,7 @@ form.addEventListener(
 
             const response =
                 await fetch(
-                    " https://mental-health-score-db4n.onrender.com",
+                    "https://mental-health-score-db4n.onrender.com/predict",
                     {
 
                         method:
